@@ -13,7 +13,6 @@
             rating: 8.5,
             description: "Hello I am JavaScript Hello I am JavaScript Hello I am JavaScript Hello I am JavaScript Hello I am JavaScriptHello I am JavaScript ",
             year: 2021,
-            price: 78,
             video: "http://www.youtube.com/embed/W7qWa52k-nE",
             Appropriate: 16
 
@@ -31,7 +30,6 @@
             rating: 8.5,
             description: "",
             year: 2021,
-             price: 78,
             video: "https://www.youtube.com/embed/JntkOH6l9K8",
             Appropriate: 16
         
@@ -48,7 +46,6 @@
             rating: 9.5,
             description: "",
             year: 2021,
-            price: 78,
             Appropriate: 16
         
         
@@ -64,7 +61,6 @@
             rating: 10,
             description: "",
             year: 2021,
-            price: 78,
             Appropriate: 16
        
     },
